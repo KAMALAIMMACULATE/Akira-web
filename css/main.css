@@ -1,0 +1,30 @@
+body{
+	padding: 0;
+	margin: 0;
+
+}
+.maincontainer{
+	width: 1200px;
+	margin:0 auto;
+}
+.content{
+	background-size:cover;
+	height: 600px;
+	background-repeat:no-repeat;
+	background-image: url(../images/photo.png);
+	}
+	.she{
+		display:flex;
+		font-size: 20rem;
+		margin: 0 auto;
+		height: 750px;
+		width: 200px;
+		font-weight: bolder;
+		color:#ffffff;
+		font-family: sans-serif;
+		justify-content: center;
+		padding-bottom: 30px;
+		top:-50%;
+
+
+	}
